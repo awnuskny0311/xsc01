@@ -4,7 +4,7 @@ public class RedisUtil {
     }
     public void priex(){
         
-        System.out.println("111111");
+        System.out.println("222222");
         
     }
 }
