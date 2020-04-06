@@ -7,4 +7,10 @@ public class RedisUtil {
         System.out.println("222222");
         
     }
+
+    public void aaaa(){
+
+        System.out.println("3333333");
+
+    }
 }
